@@ -17,5 +17,5 @@
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/05-Python-list)
 6. [Словари в Python | Методы словарей, перебор словарей в Python](https://www.youtube.com/watch?v=j6YmTeD31VQ)
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/06-Python-dict)
-7. [Кортежи в Python | Синтаксис, методы, особенности, области применения](https://www.youtube.com/watch?v=z4kSFUwnL5A)
+7. [Кортежи в Python | Синтаксис, методы, особенности, области применения](https://youtu.be/QI-LbzGZYp8)
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/07-Python-tuple)
