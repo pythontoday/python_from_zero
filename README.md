@@ -19,6 +19,6 @@
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/06-Python-dict)
 7. [Кортежи в Python | Синтаксис, методы, особенности, области применения](https://youtu.be/QI-LbzGZYp8)
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/07-Python-tuple)
-[Условие if name == 'main' | Зачем? И почему нужно использовать](https://youtu.be/houlvw937fg)
+- [Условие if name == 'main' | Зачем? И почему нужно использовать](https://youtu.be/houlvw937fg)
 8. [Функции в Python | Определение, вызов, позиционные и именованные аргументы, return](https://youtu.be/WLAq2-3ZyMc)
     - [Code](https://github.com/pythontoday/python_from_zero/tree/master/08-Python-function)
